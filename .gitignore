@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.egg-info/
+.env
+venv/
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
+backend/__pycache__/
